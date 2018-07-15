@@ -1,0 +1,16 @@
+{
+  "name": "cyrpto-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/AhmedNassar147/cyrpto-app",
+  "author": "\"Ahmed Nassar\"",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "electron": "^1.8.4"
+  }
+}
